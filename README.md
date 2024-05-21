@@ -2,6 +2,7 @@
 > IS THERE ANYBODY ALIVE OUT THERE?
 
 [ARCHIVE.ORG COLLECTION LINK](https://archive.org/details/radionowhere)
+[Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1cQEfE612L1aQS_3asKSXzPFKRQY59HeLTwew3NFApwg/edit?usp=sharing)
 
 Radio Nowhere is the name I've given to a (hopefully) ongoing project of mine. The main idea behind this project is to get as many of Bruce Springsteen's concerts onto Archive.org as possible, while also maintaining a decent standard of quality throughout. Below I'll try to explain the project and as much of my reasoning as possible.
 
