@@ -21,3 +21,5 @@ Another document in this repo will go over the vague guidelines I'm aiming for, 
 
 # Conclusion
 If you've made it all this way through my extended ramble, well done I guess? This repo is pretty much just going to be documents pertaining to the project, the files themselves will be hosted on archive.org.
+
+As mentioned this project is ongoing, and will likely take a few months to achieve the initial goal of one recording per show. It's a moving target so to speak, and everything here is subject to change.
