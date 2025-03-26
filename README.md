@@ -1,26 +1,31 @@
-# Greetings
+## Greetings
 > IS THERE ANYBODY ALIVE OUT THERE?
 
 [Archive.org Collection Link](https://archive.org/details/radionowhere)
-[Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1cQEfE612L1aQS_3asKSXzPFKRQY59HeLTwew3NFApwg/edit?usp=sharing)
+[Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1hornJLYATCdFbYtVk476FnI5D1QRJvUQe39R4lNxzM0/edit?usp=sharing)
+## Project Goal
+The main goal of this project is to provide a publicly available archive of Bruce Springsteen's concert recordings on archive.org. The initial goal is one tape per show, then maybe later down the road it could grow.
 
-Radio Nowhere is the name I've given to a (hopefully) ongoing project of mine. The main idea behind this project is to get as many of Bruce Springsteen's concerts onto Archive.org as possible, while also maintaining a decent standard of quality throughout. Below I'll try to explain the project and as much of my reasoning as possible.
+## Project Origins
+As mentioned, this project started in early 2024, and was fully underway by May 21st when the Archive collection was created. The initial goal was to upload my sizable collection of Bruce bootlegs, and provide a hopefully long-term home for them. 
 
-This project has been a long time coming, mainly trying to sort out the logistics and feasibility of such an insane project. I've had the idea for a good while now, but only now (May 2024) have started working towards actually doing it.
+A project like this has been on my mind for a number of years now, for reasons which I'll explain more in a bit. The main thing stopping it until now was not having a place for it. I'd have to find somewhere to host the files, which would get pricey depending on how much space this ends up requiring. And this isn't even taking into account issues like the hoster going down forever or disabling the account. 
 
-# Inspiration
-The main inspiration for this project is the "Live Music Archive" (also on archive.org). That is a similar project to have tapes of bands like the Grateful Dead, Phish, etc. available for stream and download (when permitted) on Archive.org as well as sites like relisten.
+For those wondering, most sites charge between $5-15 per TB per month. I'm estimating that this will take at least 2TB of storage, possibly more if this continues past the "one tape per show" goal I'm aiming for. I suppose there are other options like a massive community torrent, or self-hosting on my own server. But those have pros/cons of their own as well, longevity and cost among them.
 
-But the LMA primarily focuses on trade-friendly and taper-friendly bands and artists. Bruce isn't either, which would prevent his inclusion in a project like the Live Music Archive. Taping his shows isn't technically allowed (tapers have been kicked out of shows in the past). But he also doesn't have a Peter Grant-like figure roaming venues to find tapers and destroy their equipment. Tapes/Bootlegs of his can and have been freely shared for many years, whether traded via snail mail, or shared on the internet.
+## Inspiration
+The inspiration for this project came from the LiveMusicArchive (also on archive.org). That is a similar project, acting as a repository for tapes from bands like the Grateful Dead, Phish, and many others. These tapes are available to stream, as well as download in many cases.
 
-Another inspiration for this project specifically is the Grateful Dead trading scene. Almost every show of theirs is available to stream and download (AUD only) on archive.org, and it's something I've wanted for the Bruce scene as well. Far as I know, a project like this hasn't been attempted in the past, at least not one on the scale I'm planning.
+But, and this is somewhat important, the LMA focuses on "taper-friendly" acts, those that allowed their fans to tape their shows. Bruce isn't among them, which would prevent his inclusion in something like the LMA. He has never allowed open taping of his shows, and tapers have been kicked out of shows for doing so. This hasn't stopped them, just made it harder to do so. Although, with every show from 2014 onwards being officially released on Nugs after the show, very few are bothering to tape. 
 
-# Project Goal
-As mentioned, the main goal of this project is to get as many of Bruce Springsteen's concerts onto Archive.org as possible. To start, the plan is to have one complete recording of each show. Preferably the highest quality recording that is circulating. This project will only focus on bootleg recordings, no official material will be part of this collection. 
+More specifically, I was inspired by the Grateful Dead trading community, who have tirelessly worked to have tapes of every single show of theirs freely available, without any caveats.
+## Why?
+As far as I'm aware, there hasn't ever been a project attempted like this, least of all on this scale, and definitely not openly. As it stands, there are a only a handful of places focused on sharing Bruce bootlegs. Each having their own issues and downsides.
 
-Another document in this repo will go over the vague guidelines I'm aiming for, as well as properly organizing the files to show up right.
+All of them share the same core issue, they weren't designed to be permanent. They're all basically temporary, simply because that's how things go. Users come and go from these sites, files get deleted, seeders go offline, etc. Sites like GreasyLake and BTX (both of which have bootleg request threads) are dependent on those with collections to share what they have and fill requests. Most of the time, these files are uploaded temporarily, and removed after a period of time (whether due to the upload site, or the uploader.) 
 
-# Conclusion
-If you've made it all this way through my extended ramble, well done I guess? This repo is pretty much just going to be documents pertaining to the project, the files themselves will be hosted on archive.org.
+Of course, the solution is just "upload everything forever", which is definitely feasible if you have the funds/cloud space, but not everyone does.
+## Conclusion
+After explaining the above, there's no way I can conclude this while claiming that Radio Nowhere is a perfect solution. It would be ridiculous to do so, this project is fully dependent on the Internet Archive as a platform. Last fall, they had an extended outage due to DDoS attacks that prevented access for over a month. I would hope that nothing like that would happen again, but it is simply unknown.
 
-As mentioned this project is ongoing, and will likely take a few months to achieve the initial goal of one recording per show. It's a moving target so to speak, and everything here is subject to change.
+But, I like to think that this is a start. Perhaps it encourages someone else to start a similar initiative. Maybe that idea about a massive community torrent could happen, or possibly someone with the know-how/resources to host a cloud drive could do just that. 
